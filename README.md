@@ -10,11 +10,9 @@
   </a>
 </p>
 <hr>
-<p align="center">
-  <ul>
-    <li><b><span style="text-decoration: underline;">I'm Mwc, Owner @ squidteam.us.vn</span></b></li>
-    <li><b><span style="text-decoration: underline;">I'm Mwc, Owner @ squidteam.us.vn</span></b></li>
-    <li><b><span style="text-decoration: underline;">Official Partner w/ tcteam</span></b></li>
-  </ul>
-</p>
+<div align="center">
+  <b><span style="text-decoration: underline;">I'm Mwc, Owner @ squidteam.us.vn</span></b><br>
+  <b><span style="text-decoration: underline;">I'm Mwc, Owner @ squidteam.us.vn</span></b><br>
+  <b><span style="text-decoration: underline;">Official Partner w/ tcteam</span></b>
+</div>
 <hr>
