@@ -1,3 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=muckio&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muckio&theme=jolly&hide_border=true)<br/>
-
+[![Discord Presence]([![Discord Presence](https://lanyard.cnrad.dev/api/1185942197208617010?bg=ee88aa&ignoreAppId=1185942197208617010&showDisplayName=true&hideDecoration=true&animated=false&animatedDecoration=false&hideStatus=true&hideTag=true&hideProfile=true&hideSpotify=true&hideTimestamp=true&hideBadges=true&hideActivity=true&hideDiscrim=true&theme=light)](https://discord.com/users/1185942197208617010))
