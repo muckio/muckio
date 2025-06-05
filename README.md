@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@muckio?name=muckio&theme=miku&padding=6&offset=0&align=center&scale=1&pixelated=0&darkmode=auto">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@muckio?name=muckio&theme=miku&padding=6&offset=0&align=center&scale=1&pixelated=0&darkmode=0">
   </a>
 </p>
 
