@@ -9,10 +9,11 @@
     <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/1185942197208617010?ignoreAppId=1185942197208617010&borderRadius=20px&idleMessage=I'am%20Pus&showDisplayName=true">
   </a>
 </p>
+
 <hr>
+
 <div align="center">
   <b><span style="text-decoration: underline;">I'm Mwc, Owner @ squidteam.us.vn</span></b><br>
   <b><span style="text-decoration: underline;">I'm Mwc, Owner @ squidteam.us.vn</span></b><br>
   <b><span style="text-decoration: underline;">Official Partner w/ tcteam</span></b>
 </div>
-<hr>
