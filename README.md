@@ -8,8 +8,8 @@
 </p>
 <hr>
 <div align="center">
-  <b><u>Contact: muckio.owner@squidteam.com</u></b><br>
-  <b><u>I'm Mwc, Owner @ squidteam.us.vn</u></b><br>
+  <b>Contact:</b> <u>muckio.owner@squidteam.us.vn</u><br>
+  <b>I'm Mwc,</b> <u>Owner@squidteam.us.vn</u><br>
   <b><u>Official Partner w/ tcteam</u></b>
 </div>
 <hr>
